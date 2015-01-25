@@ -8,30 +8,18 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>HomePage</key>
-				<string>01-Home</string>
+				<string>1-Home</string>
 			</dict>
 			<key>Files</key>
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
-				<string>01-Home</string>
-				<string>02-Work</string>
-				<string>03-About</string>
-				<string>04-Ferrari-Scuderia</string>
-				<string>05-Playstation</string>
-				<string>06-Gresham-Blake</string>
-				<string>07-Nike</string>
-				<string>08-Fatboy-Slim</string>
-				<string>09-ITAT</string>
-				<string>10-Nokia-Music</string>
-				<string>11-Oracle</string>
-				<string>12-Template</string>
-				<string>13-Lab</string>
-				<string>14-Showreel</string>
-				<string>15-Jan12015</string>
-				<string>16-Jan52015</string>
-				<string>17-Nov202015</string>
-				<string>18-Contact</string>
+				<string>1-Home</string>
+				<string>2-Work</string>
+				<string>3-About</string>
+				<string>4-Lab</string>
+				<string>5-Showreel</string>
+				<string>6-Contact</string>
 			</array>
 		</dict>
 	</array>

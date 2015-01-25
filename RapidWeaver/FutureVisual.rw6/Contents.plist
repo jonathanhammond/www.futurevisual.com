@@ -10099,7 +10099,7 @@
 					<key>PublishingSettingsConfigured</key>
 					<true/>
 					<key>ShowBreadcrumbTrail</key>
-					<false/>
+					<true/>
 					<key>ShowTidiedCode</key>
 					<false/>
 					<key>SloganText</key>
