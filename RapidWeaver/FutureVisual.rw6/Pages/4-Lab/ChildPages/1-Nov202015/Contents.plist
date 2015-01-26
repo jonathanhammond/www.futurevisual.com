@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BrowserTitle</key>
-				<string>Jan 1</string>
+				<string>Nov 20 2014</string>
 				<key>CreatedDate</key>
 				<date>2015-01-14T18:27:52Z</date>
 				<key>ID</key>
@@ -25,6 +25,122 @@
 					<string>YourHead Software</string>
 					<key>Name</key>
 					<string>Stacks</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2015-01-25T15:27:55Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>files/small_41499.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							OT1FWXhgL+1fIdzKSqV9
+							Dw==
+							</data>
+							<key>Size</key>
+							<integer>5827</integer>
+						</dict>
+						<key>files/small_41526.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							OT1FWXhgL+1fIdzKSqV9
+							Dw==
+							</data>
+							<key>Size</key>
+							<integer>5827</integer>
+						</dict>
+						<key>files/small_41545.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							OT1FWXhgL+1fIdzKSqV9
+							Dw==
+							</data>
+							<key>Size</key>
+							<integer>5827</integer>
+						</dict>
+						<key>files/small_7024.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							yldv8z0rbaP6cG5IpbOm
+							0Q==
+							</data>
+							<key>Size</key>
+							<integer>116840</integer>
+						</dict>
+						<key>files/small_8811.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							75+nikP2OqmxIF45h8y/
+							3A==
+							</data>
+							<key>Size</key>
+							<integer>116836</integer>
+						</dict>
+						<key>files/small_8813.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							dSCU0hl8PejgOb6Oe6/J
+							wA==
+							</data>
+							<key>Size</key>
+							<integer>153067</integer>
+						</dict>
+						<key>files/small_8815.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							GGwnHpkv9Sg3a8OrSQjY
+							BA==
+							</data>
+							<key>Size</key>
+							<integer>145202</integer>
+						</dict>
+						<key>files/stacks_page_page19.css</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							mixkQhaotzQeqcCccmTs
+							LA==
+							</data>
+							<key>Size</key>
+							<integer>66529</integer>
+						</dict>
+						<key>files/stacks_page_page19.js</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							C6vcJEIH4SB/6zCqju+N
+							tg==
+							</data>
+							<key>Size</key>
+							<integer>22936</integer>
+						</dict>
+						<key>index.html</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							VnWxyQ/ONy5+XW9ALTW+
+							bQ==
+							</data>
+							<key>Size</key>
+							<integer>25973</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page19</string>
+					<key>SiteRoot</key>
+					<string>lab/Nov20</string>
+					<key>Version</key>
+					<integer>3</integer>
 				</dict>
 			</dict>
 			<key>Files</key>

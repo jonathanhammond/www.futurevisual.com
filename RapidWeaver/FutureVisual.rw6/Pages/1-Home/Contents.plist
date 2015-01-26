@@ -29,7 +29,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2015-01-23T17:48:25Z</date>
+					<date>2015-01-26T15:34:05Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>PageDigests</key>
@@ -148,8 +148,8 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							L0qGngJzCfni5kjvyofS
-							pQ==
+							wyOC/1gDBCNlLDIoFXxd
+							Mg==
 							</data>
 							<key>Size</key>
 							<integer>98349</integer>
@@ -158,8 +158,8 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							EKiACG9DIMxOzuKTvyLz
-							xQ==
+							M7mHxuYc0GYeUJ5XDxuj
+							wQ==
 							</data>
 							<key>Size</key>
 							<integer>59471</integer>
@@ -168,11 +168,11 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							xrHAeurz/ezYLJWsxNzs
-							6g==
+							ZQd3TkcNi6mQxhp05rEF
+							zQ==
 							</data>
 							<key>Size</key>
-							<integer>22644</integer>
+							<integer>22746</integer>
 						</dict>
 						<key>rw_common/images/Logo4</key>
 						<dict>
@@ -198,11 +198,11 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							lEHX6reH1fqasXp2X5A0
-							cQ==
+							vlqpcaRqiOvfs6IJEfwr
+							kA==
 							</data>
 							<key>Size</key>
-							<integer>541</integer>
+							<integer>477</integer>
 						</dict>
 					</dict>
 					<key>PageID</key>

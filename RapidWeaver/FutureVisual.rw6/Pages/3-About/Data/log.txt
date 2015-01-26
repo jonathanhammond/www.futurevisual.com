@@ -1,635 +1,1397 @@
- urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHNode(ImageCache) writeUntouchedOriginalSource:destination:]: could not copy /Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg to /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37698.jpg : Error Domain=NSCocoaErrorDomain Code=516 "“39E55A43-6163-4F80-B0AE-4CED7462A426.jpg” couldn’t be copied to “stacks-tweN0o” because an item with the same name already exists." UserInfo=0x6080004e4600 {NSSourceFilePathErrorKey=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUserStringVariant=(
-    Copy
-), NSDestinationFilePath=/var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37698.jpg, NSFilePath=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUnderlyingError=0x60800184bc10 "The operation couldn’t be completed. File exists"}
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHNode(ImageCache) writeUntouchedOriginalSource:destination:]: could not copy /Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg to /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37698.jpg : Error Domain=NSCocoaErrorDomain Code=516 "“39E55A43-6163-4F80-B0AE-4CED7462A426.jpg” couldn’t be copied to “stacks-tweN0o” because an item with the same name already exists." UserInfo=0x6100002e7e00 {NSSourceFilePathErrorKey=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUserStringVariant=(
-    Copy
-), NSDestinationFilePath=/var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37698.jpg, NSFilePath=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUnderlyingError=0x6100010575e0 "The operation couldn’t be completed. File exists"}
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHNode(ImageCache) writeUntouchedOriginalSource:destination:]: could not copy /Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg to /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37698.jpg : Error Domain=NSCocoaErrorDomain Code=516 "“39E55A43-6163-4F80-B0AE-4CED7462A426.jpg” couldn’t be copied to “stacks-tweN0o” because an item with the same name already exists." UserInfo=0x6080006e7380 {NSSourceFilePathErrorKey=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUserStringVariant=(
-    Copy
-), NSDestinationFilePath=/var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37698.jpg, NSFilePath=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUnderlyingError=0x608001241a70 "The operation couldn’t be completed. File exists"}
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHNode(ImageCache) writeUntouchedOriginalSource:destination:]: could not copy /Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg to /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37717.jpg : Error Domain=NSCocoaErrorDomain Code=516 "“39E55A43-6163-4F80-B0AE-4CED7462A426.jpg” couldn’t be copied to “stacks-tweN0o” because an item with the same name already exists." UserInfo=0x6100002e8d00 {NSSourceFilePathErrorKey=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUserStringVariant=(
-    Copy
-), NSDestinationFilePath=/var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37717.jpg, NSFilePath=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUnderlyingError=0x610000e415f0 "The operation couldn’t be completed. File exists"}
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHNode(ImageCache) writeUntouchedOriginalSource:destination:]: could not copy /Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg to /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37717.jpg : Error Domain=NSCocoaErrorDomain Code=516 "“39E55A43-6163-4F80-B0AE-4CED7462A426.jpg” couldn’t be copied to “stacks-tweN0o” because an item with the same name already exists." UserInfo=0x6100002e5600 {NSSourceFilePathErrorKey=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUserStringVariant=(
-    Copy
-), NSDestinationFilePath=/var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37717.jpg, NSFilePath=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUnderlyingError=0x6100012403f0 "The operation couldn’t be completed. File exists"}
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHNode(ImageCache) writeUntouchedOriginalSource:destination:]: could not copy /Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg to /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37717.jpg : Error Domain=NSCocoaErrorDomain Code=516 "“39E55A43-6163-4F80-B0AE-4CED7462A426.jpg” couldn’t be copied to “stacks-tweN0o” because an item with the same name already exists." UserInfo=0x6080006ea800 {NSSourceFilePathErrorKey=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUserStringVariant=(
-    Copy
-), NSDestinationFilePath=/var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/small_37717.jpg, NSFilePath=/Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg, NSUnderlyingError=0x608001258060 "The operation couldn’t be completed. File exists"}
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: 
-    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: 
-    filename: A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
--[YHSandwich urlForFilename:]: 
-    filename: A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_22634.jpg
--[YHSandwich urlForFilename:]: 
-    filename: DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
--[YHSandwich urlForFilename:]: 
-    filename: DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_22636.jpg
--[YHSandwich urlForFilename:]: 
-    filename: 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_22638.jpg
+32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
 -[YHSandwich urlForFilename:]: 
     filename: AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_3760.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
 -[YHSandwich urlForFilename:]: 
     filename: AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_3999.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_4009.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
 -[YHSandwich urlForFilename:]: 
     filename: D52734B6-A0C3-4115-B77F-F94097B64335.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_4301.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_4299.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
 -[YHSandwich urlForFilename:]: 
     filename: E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_3758.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_4297.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_4304.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 5724C263-D934-49EB-836F-813094E12528.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/5724C263-D934-49EB-836F-813094E12528.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_3764.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
--[YHNodeImage imageTempPath]: Image temp path: /var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/stacks-tweN0o/stacks_image_3766.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22634)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22636)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22638)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3760)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3999)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4009)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4301)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4299)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3758)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4297)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4304)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3764)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3766)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x61000031fec0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.6.10 (1198) - Mon, 26 Jan 2015 17:13:49 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file:///var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/com.realmacsoftware.rapidweaver6-2307/log-71eUDw.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/com.realmacsoftware.rapidweaver6-2307/log-71eUDw.txt
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/log.txt
+-[YHSandwich urlForFilename:]: 
+    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/log.txt
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/log.txt
+-[YHSandwich urlForFilename:]: 
+    filename: AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/
+    new name:DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/386B5277-CB49-4687-B6C3-B915D08479DB/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
 ########  creating rmSandwich for save  ########
 ########  yhSandwich check integrity  ########
 -[YHSandwich urlForFilename:]: 
     filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 5724C263-D934-49EB-836F-813094E12528.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
 -[YHSandwich urlForFilename:]: 
     filename: AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
 -[YHSandwich urlForFilename:]: 
     filename: D52734B6-A0C3-4115-B77F-F94097B64335.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
 -[YHSandwich urlForFilename:]: 
     filename: A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
 -[YHSandwich urlForFilename:]: 
     filename: log.txt
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/log.txt
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/log.txt
 -[YHSandwich urlForFilename:]: 
     filename: AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
 -[YHSandwich urlForFilename:]: 
     filename: E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
 -[YHSandwich urlForFilename:]: 
     filename: DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
 -[YHSandwich urlForUrl:]: 
     url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
 -[YHSandwich urlForUrl:]: 
     url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
 -[YHSandwich urlForUrl:]: 
     url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
--[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
 -[YHSandwich urlForFilename:]: 
     filename: A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
 -[YHSandwich urlForFilename:]: 
     filename: DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
 -[YHSandwich urlForFilename:]: 
     filename: AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
 -[YHSandwich urlForFilename:]: 
     filename: AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
 -[YHSandwich urlForFilename:]: 
     filename: D52734B6-A0C3-4115-B77F-F94097B64335.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
 -[YHSandwich urlForFilename:]: 
     filename: E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 5724C263-D934-49EB-836F-813094E12528.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
 -[YHSandwich urlForFilename:]: 
     filename: 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
--[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/FFD2A3AE-0FA2-44C7-8FCA-7BDC7E4D5F1E/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22634)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22636)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22638)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3760)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3999)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4009)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4301)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : D52734B6-A0C3-4115-B77F-F94097B64335.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4299)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3758)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4297)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4304)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3764)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 5724C263-D934-49EB-836F-813094E12528.jpg
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3766)
 
--[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60000030c960>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x610000507110>
 -[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
 -[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
--[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.6.10 (1198) - Sun, 25 Jan 2015 14:42:16 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.6.10 (1198) - Mon, 26 Jan 2015 17:14:35 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file:///var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/com.realmacsoftware.rapidweaver6-2307/log-4uuCn2.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///var/folders/jt/m7_8znpj3tv5h_f86442w5j00000gn/T/com.realmacsoftware.rapidweaver6/com.realmacsoftware.rapidweaver6-2307/log-4uuCn2.txt
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/log.txt
+-[YHSandwich urlForFilename:]: 
+    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/log.txt
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/log.txt
+-[YHSandwich urlForFilename:]: 
+    filename: AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+    destination dir:file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/
+    new name:DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg",
+    "39E55A43-6163-4F80-B0AE-4CED7462A426.jpg",
+    "4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg",
+    "5724C263-D934-49EB-836F-813094E12528.jpg",
+    "638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg",
+    "706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg",
+    "84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg",
+    "89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg",
+    "A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg",
+    "AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg",
+    "AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg",
+    "D52734B6-A0C3-4115-B77F-F94097B64335.jpg",
+    "DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg",
+    "E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg",
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/D31EFC75-8E27-4F5C-905D-88DFF8144F47/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/log.txt
+-[YHSandwich urlForFilename:]: 
+    filename: AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich urlForUrl:]: 
+    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForUrl:]: 
+    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForUrl:]: 
+    url: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForUrl:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/39E55A43-6163-4F80-B0AE-4CED7462A426.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHSandwich urlForFilename:]: 
+    filename: 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich urlForFilename:]: return: file:///Users/jonathanhammond/Library/Containers/com.realmacsoftware.rapidweaver6/Data/Library/Caches/com.yourhead.YHStacksKit-64/5CE38471-13B1-4DE5-AE53-6C88C3553D1C/84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22634)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : A0E54E09-FA01-45C7-B28C-C4FC61B8E377.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22636)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : DF8879C4-3E41-4BE3-AC47-7910E13BB4C2.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(22638)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 172608BB-32F0-41C2-B39C-1669D67BDB7E.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3760)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : AE779321-1EC0-435A-BCB6-A2AEB2784910.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3999)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : AD8280E4-5132-468F-9F34-C6EAEB657E74.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4009)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 4691B9B9-D854-4E95-9F34-BD63B113AA8B.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4301)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : D52734B6-A0C3-4115-B77F-F94097B64335.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4299)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 638C284A-C407-4FDF-83CD-EE51C3FEEF34.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3758)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : E9FECD54-8025-49D0-A0B3-6C4366FDBF98.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4297)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 706F1DA8-0A0B-4CEE-9058-8A5FAAF2A2FB.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(4304)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 89C1FC97-9529-49B9-B787-77C5BE8B3775.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3764)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 5724C263-D934-49EB-836F-813094E12528.jpg
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(3766)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x60800031c0e0>
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : image name : 84879F7D-EF03-415C-8F3A-5E42AD11B773.jpg
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.6.10 (1198) - Mon, 26 Jan 2015 17:15:01 +0000
 -[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------

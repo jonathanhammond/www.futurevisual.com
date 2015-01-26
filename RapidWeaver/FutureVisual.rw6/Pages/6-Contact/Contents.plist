@@ -29,7 +29,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2015-01-23T18:16:51Z</date>
+					<date>2015-01-25T15:29:17Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>PageDigests</key>
@@ -78,8 +78,8 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							K4flmhbbvwVWQc4ehhgz
-							kw==
+							s1fBWTPinJFO22O8VXF4
+							Bw==
 							</data>
 							<key>Size</key>
 							<integer>23579</integer>
@@ -88,8 +88,8 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							JanT2r71+CTurAn6yVqk
-							ZQ==
+							GPbYtXjgeqb4G1K9MfUc
+							lw==
 							</data>
 							<key>Size</key>
 							<integer>22993</integer>

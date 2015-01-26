@@ -14,7 +14,8 @@
 				<key>CreditRapidWeaver</key>
 				<true/>
 				<key>CustomCSS</key>
-				<string>.orbit-caption{opacity:0;}</string>
+				<string>.orbit-caption{opacity:0;}
+</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
 				<key>CustomSiteTitleUsed</key>

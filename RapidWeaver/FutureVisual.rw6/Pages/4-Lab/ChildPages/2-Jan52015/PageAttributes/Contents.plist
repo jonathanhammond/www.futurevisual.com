@@ -23,6 +23,8 @@
 				<string></string>
 				<key>FilenameExtension</key>
 				<string>html</string>
+				<key>FolderName</key>
+				<string>jan5</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>Hidden</key>

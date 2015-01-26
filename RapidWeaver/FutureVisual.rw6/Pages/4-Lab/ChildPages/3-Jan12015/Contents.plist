@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BrowserTitle</key>
-				<string>Jan 1</string>
+				<string>Jan 01 2015</string>
 				<key>CreatedDate</key>
 				<date>2015-01-14T18:27:52Z</date>
 				<key>ID</key>
@@ -25,6 +25,92 @@
 					<string>YourHead Software</string>
 					<key>Name</key>
 					<string>Stacks</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2015-01-25T15:27:57Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>files/small_40861.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							OT1FWXhgL+1fIdzKSqV9
+							Dw==
+							</data>
+							<key>Size</key>
+							<integer>5827</integer>
+						</dict>
+						<key>files/small_40888.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							OT1FWXhgL+1fIdzKSqV9
+							Dw==
+							</data>
+							<key>Size</key>
+							<integer>5827</integer>
+						</dict>
+						<key>files/small_40907.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							OT1FWXhgL+1fIdzKSqV9
+							Dw==
+							</data>
+							<key>Size</key>
+							<integer>5827</integer>
+						</dict>
+						<key>files/small_7024.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							a0PjL7dhzB6Bj0eC6VI+
+							Ng==
+							</data>
+							<key>Size</key>
+							<integer>735556</integer>
+						</dict>
+						<key>files/stacks_page_page0.css</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							ta4eQRcFgDP8VHe7ilq6
+							fg==
+							</data>
+							<key>Size</key>
+							<integer>65778</integer>
+						</dict>
+						<key>files/stacks_page_page0.js</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							Wuo5VPWJtB4etm8+kU58
+							Qw==
+							</data>
+							<key>Size</key>
+							<integer>22894</integer>
+						</dict>
+						<key>index.html</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							8iPmaOmLMVd7KgNK6zEv
+							Vw==
+							</data>
+							<key>Size</key>
+							<integer>24304</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page0</string>
+					<key>SiteRoot</key>
+					<string>lab/jan1</string>
+					<key>Version</key>
+					<integer>3</integer>
 				</dict>
 			</dict>
 			<key>Files</key>

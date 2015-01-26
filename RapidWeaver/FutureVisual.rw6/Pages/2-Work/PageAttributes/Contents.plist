@@ -13,6 +13,8 @@
 				<dict/>
 				<key>CreditRapidWeaver</key>
 				<true/>
+				<key>CustomCSS</key>
+				<string>letter-spacing: 2px;</string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
 				<key>CustomSiteTitleUsed</key>
