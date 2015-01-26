@@ -13,34 +13,6 @@ var stacks = {};
 // jQuery versions that might be running on this page.
 stacks.jQuery = jQuery.noConflict(true);
 
-// Javascript for com_joeworkman_stacks_foundation_topbar
-// ---------------------------------------------------------------------
-
-// Each stack has its own object with its own namespace.  The name of
-// that object is the same as the stack's id.
-stacks.com_joeworkman_stacks_foundation_topbar = {};
-
-// A closure is defined and assigned to the stack's object.  The object
-// is also passed in as 'stack' which gives you a shorthand for referring
-// to this object from elsewhere.
-stacks.com_joeworkman_stacks_foundation_topbar = (function(stack) {
-
-	// When jQuery is used it will be available as $ and jQuery but only
-	// inside the closure.
-	var jQuery = stacks.jQuery;
-	var $ = jQuery;
-	
-;(function($){"use strict";var version='20140730.1100',debug=function(msg,obj){if(window.debug===true&&window.console&&console.log){console.log('[rwflexnav] '+msg);if(obj)console.log(obj);}};$.fn.divideNav=function(options){var opts=$.extend(true,{},$.fn.rwflexnav.defaults,options||{});var container=$(this);$('> li.'+opts.className.divider,container).remove();var items=$('> li',container);$('<li>').addClass(opts.className.divider).insertBefore(items);$('<li>').addClass(opts.className.divider).insertAfter(items.last());return $(container);};$.fn.hackRWFlexNav=function(options){var opts=$.extend(true,{},$.fn.rwflexnav.defaults,options||{});var container=$(this);$('> ul.'+opts.className.menu,container).first().removeClass(opts.className.dropdown).find('ul').removeClass(opts.className.menu);$('> ul.'+opts.className.menu,container).find('li').each(function(){if($(this).find('ul').length===0)$(this).removeClass(opts.className.hasDropdown);});return $(container);};$.fn.processRWFlexNav=function(options){var opts=$.extend(true,{},$.fn.rwflexnav.defaults,options||{});var container=$(this);$('li a header',container).parent().attr('href','javascript:void(0)').parent().addClass(opts.className.heading);$('li a label',container).unwrap();$('li a button',container).each(function(){var classes=$(this).attr('class');var text=$(this).text();$(this).parent().addClass(opts.className.button).addClass(classes).html(text).parent().addClass(opts.className.hasButton);});$('li a hr',container).unwrap().parent().addClass(opts.className.divider).html('');return $(container);};$.fn.rwflexnav=function(options){var opts=$.extend(true,{},$.fn.rwflexnav.defaults,options||{});return this.each(function(){if($('> ul.'+opts.className.menu,this).length===0){console.error('RWFlexNav Aborting! Unable to locate menu with class "'+opts.className.menu+'"');return false;}
-var method=$.fn.rwflexnav[opts.scope],container=typeof method==='function'?method(opts,this):false;if(opts.hackNav)container.hackRWFlexNav(opts);container.processRWFlexNav(opts);if(opts.divide)$('> ul.'+opts.className.menu,container).divideNav(opts);debug('Processing Complete',container);return $(container);});};$.fn.rwflexnav.all=function(opts,container){return $(container);};$.fn.rwflexnav.top=function(opts,container){$('> ul.'+opts.className.menu,container).find('ul').remove();return $(container);};$.fn.rwflexnav.subnav=function(opts,container){var menu=$('> ul.'+opts.className.menu,container).first(),submenu=$('> ul.'+opts.className.menu+'> li:nth-child('+opts.subNavIndex+') > ul',container),classes=menu.attr('class');debug('Scope SubNav',submenu);if(submenu.length===0){console.error('RWFlexNav Error! No subnav found at index '+opts.subNavIndex);}
-else{submenu.addClass(opts.className.menu).addClass(classes).insertAfter(menu);submenu.find('>li.js-generated').remove();menu.remove();}
-return $(container);};$.fn.rwflexnav.active=function(opts,container){var menu=$('> ul.'+opts.className.menu,container).first(),submenu=$('> ul.'+opts.className.menu+' > li.'+opts.className.active+' > ul',container),classes=menu.attr('class');debug('Scope Active',submenu);if(submenu.length===0){console.error('RWFlexNav Error! No active subnav found with class "'+opts.className.active+'"');}
-else{submenu.addClass(opts.className.menu).addClass(classes).insertAfter(menu);submenu.find('>li.js-generated').remove();menu.remove();}
-return $(container);};$.fn.rwflexnav.defaults={scope:'all',hackNav:true,divide:false,subNavIndex:0,className:{menu:'menu',heading:'heading',divider:'divider',active:'active',dropdown:'dropdown',button:'button',hasButton:'has-form',hasDropdown:'has-dropdown'}};})(jQuery);
-
-	return stack;
-})(stacks.com_joeworkman_stacks_foundation_topbar);
-
-
 // Javascript for com_joeworkman_stacks_movingbox2
 // ---------------------------------------------------------------------
 
@@ -94,6 +66,34 @@ $(window).bind(orientationEvent,triggerWindowResize).load(triggerWindowResize);
 
 	return stack;
 })(stacks.com_joeworkman_stacks_foundation_styles);
+
+
+// Javascript for com_joeworkman_stacks_foundation_topbar
+// ---------------------------------------------------------------------
+
+// Each stack has its own object with its own namespace.  The name of
+// that object is the same as the stack's id.
+stacks.com_joeworkman_stacks_foundation_topbar = {};
+
+// A closure is defined and assigned to the stack's object.  The object
+// is also passed in as 'stack' which gives you a shorthand for referring
+// to this object from elsewhere.
+stacks.com_joeworkman_stacks_foundation_topbar = (function(stack) {
+
+	// When jQuery is used it will be available as $ and jQuery but only
+	// inside the closure.
+	var jQuery = stacks.jQuery;
+	var $ = jQuery;
+	
+;(function($){"use strict";var version='20140730.1100',debug=function(msg,obj){if(window.debug===true&&window.console&&console.log){console.log('[rwflexnav] '+msg);if(obj)console.log(obj);}};$.fn.divideNav=function(options){var opts=$.extend(true,{},$.fn.rwflexnav.defaults,options||{});var container=$(this);$('> li.'+opts.className.divider,container).remove();var items=$('> li',container);$('<li>').addClass(opts.className.divider).insertBefore(items);$('<li>').addClass(opts.className.divider).insertAfter(items.last());return $(container);};$.fn.hackRWFlexNav=function(options){var opts=$.extend(true,{},$.fn.rwflexnav.defaults,options||{});var container=$(this);$('> ul.'+opts.className.menu,container).first().removeClass(opts.className.dropdown).find('ul').removeClass(opts.className.menu);$('> ul.'+opts.className.menu,container).find('li').each(function(){if($(this).find('ul').length===0)$(this).removeClass(opts.className.hasDropdown);});return $(container);};$.fn.processRWFlexNav=function(options){var opts=$.extend(true,{},$.fn.rwflexnav.defaults,options||{});var container=$(this);$('li a header',container).parent().attr('href','javascript:void(0)').parent().addClass(opts.className.heading);$('li a label',container).unwrap();$('li a button',container).each(function(){var classes=$(this).attr('class');var text=$(this).text();$(this).parent().addClass(opts.className.button).addClass(classes).html(text).parent().addClass(opts.className.hasButton);});$('li a hr',container).unwrap().parent().addClass(opts.className.divider).html('');return $(container);};$.fn.rwflexnav=function(options){var opts=$.extend(true,{},$.fn.rwflexnav.defaults,options||{});return this.each(function(){if($('> ul.'+opts.className.menu,this).length===0){console.error('RWFlexNav Aborting! Unable to locate menu with class "'+opts.className.menu+'"');return false;}
+var method=$.fn.rwflexnav[opts.scope],container=typeof method==='function'?method(opts,this):false;if(opts.hackNav)container.hackRWFlexNav(opts);container.processRWFlexNav(opts);if(opts.divide)$('> ul.'+opts.className.menu,container).divideNav(opts);debug('Processing Complete',container);return $(container);});};$.fn.rwflexnav.all=function(opts,container){return $(container);};$.fn.rwflexnav.top=function(opts,container){$('> ul.'+opts.className.menu,container).find('ul').remove();return $(container);};$.fn.rwflexnav.subnav=function(opts,container){var menu=$('> ul.'+opts.className.menu,container).first(),submenu=$('> ul.'+opts.className.menu+'> li:nth-child('+opts.subNavIndex+') > ul',container),classes=menu.attr('class');debug('Scope SubNav',submenu);if(submenu.length===0){console.error('RWFlexNav Error! No subnav found at index '+opts.subNavIndex);}
+else{submenu.addClass(opts.className.menu).addClass(classes).insertAfter(menu);submenu.find('>li.js-generated').remove();menu.remove();}
+return $(container);};$.fn.rwflexnav.active=function(opts,container){var menu=$('> ul.'+opts.className.menu,container).first(),submenu=$('> ul.'+opts.className.menu+' > li.'+opts.className.active+' > ul',container),classes=menu.attr('class');debug('Scope Active',submenu);if(submenu.length===0){console.error('RWFlexNav Error! No active subnav found with class "'+opts.className.active+'"');}
+else{submenu.addClass(opts.className.menu).addClass(classes).insertAfter(menu);submenu.find('>li.js-generated').remove();menu.remove();}
+return $(container);};$.fn.rwflexnav.defaults={scope:'all',hackNav:true,divide:false,subNavIndex:0,className:{menu:'menu',heading:'heading',divider:'divider',active:'active',dropdown:'dropdown',button:'button',hasButton:'has-form',hasDropdown:'has-dropdown'}};})(jQuery);
+
+	return stack;
+})(stacks.com_joeworkman_stacks_foundation_topbar);
 
 
 // Javascript for stacks_in_23187_page8
@@ -232,7 +232,7 @@ stacks.stacks_in_6833_page8 = (function(stack) {
  $(document).ready(function(){var movingbox=$('#stacks_in_6833_page8 >.movingbox'),effect='slide',fade=(effect=='fade')?true:false,vertical=(effect=='slide-vert')?true:false,initial=1-1,sync=0,autoplay=true,b1conf={breakpoint:480,settings:{slidesToShow:(effect=='fade')?1:1,slidesToScroll:1,initialSlide:1-1,centerMode:false,centerPadding:'%',dots:true,arrows:false}},b2conf={breakpoint:660,settings:{slidesToShow:(effect=='fade')?1:1,slidesToScroll:1,initialSlide:1-1,centerMode:false,centerPadding:'%',dots:true,arrows:false}},breakpoints=[];if(window.debug===true)autoplay=false;var slideTitles=[];movingbox.children().each(function(index){var title=index+1;var headers=$(this).find('h1,h2,h3,h4,h5,h6');if(headers.exists()){$.debug('Slide Headers',headers);title=headers.first().text().replace(/\s+/g,'-').toLowerCase();}
 else{var images=$(this).find('img');if(images.exists()){$.debug('Slide Images',images);alt=images.first().attr('alt').replace(/\s+/g,'-').toLowerCase();title=alt!==''?alt:title;}}
 $.debug('Slide Title #'+index+':'+title);slideTitles.push(title);});$.debug('All Slide Titles:',slideTitles);if(true)breakpoints.push(b1conf);if(false)breakpoints.push(b2conf);if(false){$('>.stacks_out',movingbox).each(function(){$(this).width($(this).width());});}
-movingbox.slick({asNavFor:(0)?'#movingbox2':null,adaptiveHeight:false,variableWidth:false,accessibility:true,focusOnSelect:true,lazyLoad:'progressive',autoplay:autoplay,autoplaySpeed:4000,arrows:false,useCSS:true,cssEase:'ease',dots:true,draggable:true,fade:fade,vertical:vertical,infinite:true,pauseOnHover:false,pauseOnDotsHover:false,speed:500,swipe:true,touchMove:true,touchThreshold:5,rtl:false,slide:'.stacks_out',initialSlide:1-1,slidesToShow:(effect=='fade')?1:3,slidesToScroll:1,centerMode:false,centerPadding:'10.00%',responsive:breakpoints});var goToSlide=function(hash){var index=slideTitles.indexOf(hash);$.debug('Linking to hash '+hash+'with index '+index,slideTitles);if(index>=0){$.debug('Moving to slide with index '+index);movingbox.slickGoTo(parseInt(index)).slickPause();if(sync>0){$(window).load(function(){if($('#movingbox2').getSlick()){$('#movingbox2').slickGoTo(parseInt(index)).slickPause();}});}}};if(window.location.hash){var hash=location.hash.substring(1);goToSlide(hash);}
+movingbox.slick({asNavFor:(0)?'#movingbox2':null,adaptiveHeight:false,variableWidth:false,accessibility:true,focusOnSelect:true,lazyLoad:'ondemand',autoplay:autoplay,autoplaySpeed:4000,arrows:false,useCSS:true,cssEase:'ease',dots:true,draggable:true,fade:fade,vertical:vertical,infinite:true,pauseOnHover:false,pauseOnDotsHover:false,speed:500,swipe:true,touchMove:true,touchThreshold:5,rtl:false,slide:'.stacks_out',initialSlide:1-1,slidesToShow:(effect=='fade')?1:3,slidesToScroll:1,centerMode:false,centerPadding:'10.00%',responsive:breakpoints});var goToSlide=function(hash){var index=slideTitles.indexOf(hash);$.debug('Linking to hash '+hash+'with index '+index,slideTitles);if(index>=0){$.debug('Moving to slide with index '+index);movingbox.slickGoTo(parseInt(index)).slickPause();if(sync>0){$(window).load(function(){if($('#movingbox2').getSlick()){$('#movingbox2').slickGoTo(parseInt(index)).slickPause();}});}}};if(window.location.hash){var hash=location.hash.substring(1);goToSlide(hash);}
 $('a.mb-slide').click(function(){var hash=$(this).attr('href').substring(1);goToSlide(hash);return false;});if($.isMobile()){$('.tap-target',movingbox).removeClass('hide').click(function(){$(this).hasClass('prev')?movingbox.slickPrev():movingbox.slickNext();})}});
 
 	return stack;

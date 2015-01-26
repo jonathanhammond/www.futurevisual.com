@@ -29,7 +29,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2015-01-26T15:34:05Z</date>
+					<date>2015-01-26T17:40:40Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>PageDigests</key>
@@ -114,6 +114,16 @@
 							<key>Size</key>
 							<integer>324666</integer>
 						</dict>
+						<key>files/stacks_image_6270.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							HxoLWMCqKZWs02WfXLdz
+							MQ==
+							</data>
+							<key>Size</key>
+							<integer>259170</integer>
+						</dict>
 						<key>files/stacks_image_6866.jpg</key>
 						<dict>
 							<key>Digest</key>
@@ -158,21 +168,21 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							M7mHxuYc0GYeUJ5XDxuj
-							wQ==
+							dZNfN3MhefsXvlkM8u+l
+							sg==
 							</data>
 							<key>Size</key>
-							<integer>59471</integer>
+							<integer>59468</integer>
 						</dict>
 						<key>index.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							ZQd3TkcNi6mQxhp05rEF
-							zQ==
+							R6cyF6Id6KG0HFtZhthp
+							XA==
 							</data>
 							<key>Size</key>
-							<integer>22746</integer>
+							<integer>23016</integer>
 						</dict>
 						<key>rw_common/images/Logo4</key>
 						<dict>
@@ -198,11 +208,11 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							vlqpcaRqiOvfs6IJEfwr
-							kA==
+							To0YjSockSur5GNcx2K4
+							gg==
 							</data>
 							<key>Size</key>
-							<integer>477</integer>
+							<integer>509</integer>
 						</dict>
 					</dict>
 					<key>PageID</key>
