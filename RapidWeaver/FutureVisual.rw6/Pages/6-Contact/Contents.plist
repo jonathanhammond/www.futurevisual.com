@@ -29,7 +29,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2015-01-25T15:29:17Z</date>
+					<date>2015-04-01T10:39:23Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>PageDigests</key>
@@ -68,31 +68,31 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							ZffnoV0TgqL/3AC1djVf
-							uA==
+							oCwqJeIuptT4y/AoOG8S
+							5w==
 							</data>
 							<key>Size</key>
-							<integer>75803</integer>
+							<integer>76474</integer>
 						</dict>
 						<key>files/stacks_page_page1.js</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							s1fBWTPinJFO22O8VXF4
-							Bw==
+							U+ZH21Vg0YeCYQqWk4E/
+							UA==
 							</data>
 							<key>Size</key>
-							<integer>23579</integer>
+							<integer>30536</integer>
 						</dict>
 						<key>index.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							GPbYtXjgeqb4G1K9MfUc
-							lw==
+							wOs1v9kqi/vGu8kbYscu
+							Vw==
 							</data>
 							<key>Size</key>
-							<integer>22993</integer>
+							<integer>22858</integer>
 						</dict>
 					</dict>
 					<key>PageID</key>

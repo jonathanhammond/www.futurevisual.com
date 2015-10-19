@@ -29,7 +29,7 @@
 				<key>PublishingManifest</key>
 				<dict>
 					<key>CreationDate</key>
-					<date>2015-01-25T15:27:53Z</date>
+					<date>2015-04-01T10:39:13Z</date>
 					<key>DigestAlgorithm</key>
 					<string>MD5</string>
 					<key>PageDigests</key>
@@ -73,6 +73,46 @@
 							</data>
 							<key>Size</key>
 							<integer>5827</integer>
+						</dict>
+						<key>files/stacks_image_22136.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							3kuHkE1/BSBJTSMMt8jZ
+							2g==
+							</data>
+							<key>Size</key>
+							<integer>15751</integer>
+						</dict>
+						<key>files/stacks_image_22150.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							3kuHkE1/BSBJTSMMt8jZ
+							2g==
+							</data>
+							<key>Size</key>
+							<integer>15751</integer>
+						</dict>
+						<key>files/stacks_image_22170.png</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							MW3EhKWf5mcz6BajNWdT
+							WQ==
+							</data>
+							<key>Size</key>
+							<integer>104444</integer>
+						</dict>
+						<key>files/stacks_image_22184.png</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							MW3EhKWf5mcz6BajNWdT
+							WQ==
+							</data>
+							<key>Size</key>
+							<integer>104444</integer>
 						</dict>
 						<key>files/stacks_image_4370.jpg</key>
 						<dict>
@@ -138,31 +178,31 @@
 						<dict>
 							<key>Digest</key>
 							<data>
-							S7Whhub4lCxASZC/u4sP
-							Xw==
+							lLIvPQ8AgEYVwVBnZcJ4
+							Gw==
 							</data>
 							<key>Size</key>
-							<integer>82693</integer>
+							<integer>96914</integer>
 						</dict>
 						<key>files/stacks_page_page17.js</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							mK+tCG0n8bD7d9qSrjZV
-							CA==
+							U702rOUs+SuC3B3qFlSa
+							iQ==
 							</data>
 							<key>Size</key>
-							<integer>22920</integer>
+							<integer>37544</integer>
 						</dict>
 						<key>index.html</key>
 						<dict>
 							<key>Digest</key>
 							<data>
-							B/EG6rqiILLKCce5MfdJ
-							Jw==
+							5T8tntmg+ttFzRAXbTeF
+							Qg==
 							</data>
 							<key>Size</key>
-							<integer>34412</integer>
+							<integer>44526</integer>
 						</dict>
 					</dict>
 					<key>PageID</key>
